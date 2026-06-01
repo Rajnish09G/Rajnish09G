@@ -5,7 +5,7 @@
  
 <!-- Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF2E97&center=true&vCenter=true&width=700&lines=Hi+I'm+Rajnish+%F0%9F%91%8B;AI+and+Machine+Learning+Learner+%F0%9F%A4%96;Game+Developer+in+Progress+%F0%9F%8E%AE;Web+Developer+%F0%9F%8C%90;Anime+%26+Gaming+Enjoyer+%F0%9F%8E%8C"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF2E97&center=true&vCenter=true&width=700&lines=Hi+I'm+Rajnish+%F0%9F%91%8B;AI+/+Machine+Learning+Learner+%F0%9F%A4%96;Game+Developer+in+Progress+%F0%9F%8E%AE;Web+Developer+%F0%9F%8C%90;Anime+%26+Gaming+Enjoyer+%F0%9F%8E%8C"/>
 </p>
  
 ---
@@ -31,7 +31,7 @@
 * 🤖 Exploring **Artificial Intelligence & Machine Learning**
 * 🎮 Learning **2D Game Development using C++ and SFML**
 * 🕹️ Interested in **3D Game Development**
-* 🎵 Exploring **Music Production using FL Studio**
+* 🎵 Exploring **Music Production**
 * 🎌 Big **Anime** fan & passionate **Gamer**
  
 ---
@@ -54,8 +54,8 @@
  
 🎮 Games I play:
 - 🔫 **BGMI** (Battlegrounds Mobile India)
-- 🌴 **MLBB** (Mobile Legends: Bang Bang)
-- ⚡ **Valorant**
+- ⚽ **FC MOBILE**
+- 🏇 **Red Dead Redemption**
  
 ---
  
